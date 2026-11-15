@@ -2,6 +2,6 @@
   "name": "Perma Launcher",
   "launcher_repo": "manesitooox/mc-launcher",
   "modpack_repo": "manesitooox/modpack",
-  "minecraft_version": "1.20.1",
-  "mod_loader": "fabric"
+  "minecraft_version": "1.16.5",
+  "mod_loader": "forge"
 }
