@@ -1,7 +1,10 @@
 {
-  "name": "Perma Launcher",
+  "name": "Medie Launcher",
   "launcher_repo": "manesitooox/mc-launcher",
   "modpack_repo": "manesitooox/modpack",
+  "modpack_subdir": "",
+  "modpack_preserve": ["options.txt", "servers.dat"],
   "minecraft_version": "1.16.5",
-  "mod_loader": "forge"
+  "mod_loader": "forge",
+  "forge_version": "36.2.34"
 }
